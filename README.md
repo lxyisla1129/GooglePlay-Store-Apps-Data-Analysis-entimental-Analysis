@@ -1,0 +1,2 @@
+# GooglePlay-Store-Apps-Data-Analysis-entimental-Analysis
+This analytical project delves into the diverse ecosystem of the Google Play Store, exploring various dimensions of mobile Apps ranging from app categories and user ratings to installation counts and reviews. Utilizing Python to perform a structured data analysis and sentimental analysis that draws insights into user behavior and app trends.
